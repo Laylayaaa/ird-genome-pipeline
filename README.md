@@ -1,5 +1,4 @@
-# Addressing Missing Heritability in Inherited Retinal Dystrophies (IRDs)
-
+# Genome Analysis Pipeline
 This repository accompanies the MSc thesis **“Addressing Missing Heritability in Inherited Retinal Dystrophies: A Comprehensive, Phenotype-Driven Genome Analysis Pipeline for Novel Variant and Gene Discovery”** by Layla Ahmed (2025).
 
 ## 🧬 Project Overview
